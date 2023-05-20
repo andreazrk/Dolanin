@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dolanin</string>
+    <string-array name="daftar_kota">
+        <item>Semarang (SRG)</item>
+        <item>Surabaya (SBY)</item>
+        <item>Bali (DPS)</item>
+        <item>Purwokerto (PWT)</item>
+    </string-array>
+</resources>
